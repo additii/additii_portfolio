@@ -3,6 +3,19 @@
 _Data Scientist uncovering business clues behind data noise._
 # Data Scientist
 
+---
+
+## 📂 Case Files
+
+### 🔍 Say It. Sip It! ☕️🎤  
+Voice-based assistant that helps users order coffee hands-free—built on an old Starbucks menu for fun and function.  
+**Skills:** Speech-to-text, NLP, React, API Integration  
+**Live Demo:** [sayitsipit-frontend.vercel.app](https://sayitsipit-frontend.vercel.app/)  
+**Repo:** [GitHub](https://github.com/additii/sayitsipit)
+
+<!-- Add more projects like churn analysis or feature usage below this as bullets or full blurbs -->
+
+
 #### Technical Skills: 
 📊 Data Analysis
 🤖 Predictive Modeling
