@@ -1,4 +1,3 @@
-# Aditi Gupta  
 ### *Every Metric Has a Motive.*
 
 _Data Scientist uncovering business clues behind data noise._
