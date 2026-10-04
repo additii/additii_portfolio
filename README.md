@@ -1,81 +1,116 @@
 ### *Every Metric Has a Motive.*
 
-_Data Scientist uncovering business clues behind data noise._
-# Data Scientist
+*Data & AI leader turning complex data and products into better business decisions.*
+
+# Data & AI Product Leader
+
+**Product Analytics | Decision Science | AI-Enabled Modernization | Data Strategy**
 
 ---
 
-## 📂 Case Files
+## 👋 About Me
 
-### 🔍 Say It. Sip It! ☕️🎤  
-Voice-based assistant that helps users order coffee hands-free—built on an old Starbucks menu for fun and function.  
-**Skills:** Speech-to-text, NLP, React, API Integration  
-**Live Demo:** [sayitsipit-frontend.vercel.app](https://sayitsipit-frontend.vercel.app/)  
+I work across **product analytics, data science, data engineering, AI, and analytics strategy** with experience at **Boeing, Twilio/Zipwhip, Starbucks, Telstra, NBN Co., and Accenture**.
+
+My work spans **product strategy, growth analytics, pricing and monetization, customer insights, AI modernization, data quality, and executive decision support**.
+
+---
+
+## 📂 Featured Project
+
+### 🔍 Say It. Sip It! ☕️🎤
+
+Voice-based assistant for hands-free coffee ordering, built using an older Starbucks menu.
+
+**Skills:** Speech-to-Text | NLP | React | API Integration
+
+**Live Demo:** [sayitsipit-frontend.vercel.app](https://sayitsipit-frontend.vercel.app/)
+
 **Repo:** [GitHub](https://github.com/additii/sayitsipit)
 
-<!-- Add more projects like churn analysis or feature usage below this as bullets or full blurbs -->
+---
 
+## 🧠 Core Skills
 
-#### Technical Skills: 
-📊 Data Analysis
-🤖 Predictive Modeling
-🌐 Machine Learning
-🧠 Business Intelligence
-📈 Data Visualization
-📊 Statistical Analysis
-📋 Reporting
-⛏️ Data Mining
-🐍 Python/R Programming
-📊 SQL and Database Management
-👥 Stakeholder Collaboration
+**Product & Decision Science:** Product Analytics | Growth Analytics | Funnel Analysis | Customer Insights | Causal Inference | Hypothesis Testing | A/B Testing | Pricing & Monetization | Optimization
 
-## Education
-- Springboard Data Science Track (09/2023 – Current)
-- Harvard edX Data Science Certification
-- Coursera: Learn to Program (Python): The Fundamentals by University of Toronto
-- Master of Science, Computer Applications, Banasthali University (Equivalent to M.S. in Computer Science)
-- Bachelor of Science, Computer Applications, TMIMT University
+**AI/ML & Data:** Generative AI | Agentic AI | Machine Learning | NLP | Python | R | SQL
 
+**Data Engineering & Platforms:** ETL/ELT | Data Pipelines | Data Modeling | Data Warehousing | Data Quality | Databricks | AWS | GCP
 
-## Work Experience
-**DATA SCIENTIST | TWILIO | 10/2019 – 02/2023**
-- Developed predictive models using statistical methods, fostering a data-driven culture within the organization as a proactive self-starter.
-- Spearheaded the creation of a robust business layer, integrating intricate business logics through decision trees based on a detailed catalogue of existing reports and resources.
-- Collaborated cross-functionally with the data engineering team to validate and optimize business metrics and ensure robust data quality.
-- Applied quantitative acumen to gather business requirements through interviews, document analysis, and comprehensive use case evaluation.
-- Strategically prioritized reporting requirements, aligning with market demands and key business indicators, engaging stakeholders in the process.
-- Crafted Power BI dashboards to proactively monitor data quality and integrity, demonstrating meticulous attention to detail.
-- Formulated a monetization matrix for customer segmentation based on revenue and usage patterns, facilitating the compilation of high-priority customers during Twilio's Zipwhip acquisition.
-- Orchestrated seamless collaboration between internal departments and data engineering teams, resulting in essential report development for enhanced data-driven decision-making.
-- Demonstrated analytical prowess in establishing functional team deliverables, ensuring consistent documentation and efficient review processes.
-- Employed statistical methodologies and A/B tests to establish correlations between product features and related issues, leading to the identification and implementation of solutions like a password reset button and optimizing customer support.
+**Analytics & Visualization:** Tableau | Power BI | Looker | OBIEE | Splunk
 
-**QUALITY & BUSINESS SYSTEMS ANALYST | STARBUCKS (Via: Collebra) | 02/2018 – 10/2019**
-- Built complex data sets from internal and external sources, ensuring data cleanliness and accuracy.
-- Utilized advanced SQL, ETL, and database skills to transform raw data into refined datasets for impactful statistical analysis.
-- Collaborated across teams to understand business requirements and deliver pragmatic, data-driven solutions.
-- Demonstrated expertise in cloud platforms (Azure, AWS) for optimizing data storage, processing, and machine learning deployment.
-- Ensured data quality by reviewing Python codes and collaborating with data scientists and analysts.
-- Developed solutions in OBIEE and ODI, emphasizing meticulous attention to detail in BI solutions.
+**Leadership & Strategy:** Product Strategy | Analytics Strategy | Portfolio Leadership | Executive Communication | Stakeholder Influence | Data Governance | 0-to-1 Delivery
 
-**BUSINESS INTELLIGENCE ANALYST | SARAS AMERICA INC. | 09/2017 – 01/2018**
-- Managed the delivery of client-facing reporting packages using data analytics and Oracle Business Intelligence tool to ensure consistent processes and methodology across the landscape, working with business teams.
+---
 
-**LEAD DATA ANALYST | KORN FERRY FUTURESTEP – NBN | 05/2017 – 09/2017**
-- Developed end-to-end delivery of client-facing reporting packages using data analytics applications such as Oracle Business Intelligence 12c, Tableau and Fieldglass, ensuring consistent processes and methodology.
-- Implemented data strategies with the Application Development team, as well as built data flows and developed conceptual data models using OBIA/BI Apps 7.9.6.3 with Informatica 9.x.
+# 💼 Experience
 
-**AUTOMATION DATA ANALYTICS PROJECT MANAGER| TECH MAHINDRA – TELSTRA | 06/2016– 05/2017**
-- Managed delivery of automation project for business process changes management and infrastructure management, managing predictive analysis and forecasting reports in OBIEE/Tableau and logging onto Splunk.
-- Developed and tested use cases and conducted preliminary analysis of pricing strategy, security, and performance assessment.
-- Used Splunk’s predictive analytics and forecasting reports generated to display the coordination between business data, batch job and infrastructure dependencies.
+## THE BOEING COMPANY
 
-**DATA MODELER, ENTERPRISE LOCATION MANAGEMENT SYSTEM | NBN CO. | 03/2016 – 06/2016**
-- Remediated the data mismatches within the Enterprise location management system by half, using ODI integrations, VBA code and advanced excel plugin in OBIEE; identified and documented all the location management discrepancies.
+### Data & AI Product Lead | Aug 2025 – Present
 
-**BUSINESS INTELLIGENCE ONSITE LEAD | ACCENTURE INDIA and AUSTRALIA | 08/2009 – 02/2016**
-- Oversaw a team of 5-10 developers and business analysts, driving enhancements to Oracle BI and Tableau Reports/Dashboards, prioritizing ODI ETL.
-- Conducted in-depth data analysis in ODI by reverse engineering physical data models from databases and SQL scripts, resolving critical production issues.
-- Acted as a bridge between the team, Product Owners, and Business Analysts, ensuring end-to-end solution delivery aligned with BRD requirements, compliance rules, and client RFPs.
-- Prepared precise User Stories and Requirement Traceability Matrices, defining clear acceptance criteria based on priority for each requirement.
-- Delivered Oracle BI, ODI/ETL solutions, and managed the implementation of OBIEE Security matrix along with Oracle BI modules, including Oracle EBS integrated modules.
+- Own **product strategy, roadmap, modernization, reliability, and governance** across business-critical data and analytics products.
+- Lead **AI-enabled modernization**, including automated testing, code-quality improvement, product-health monitoring, and technical-debt reduction.
+
+---
+
+## TWILIO / ZIPWHIP
+
+### Product Data Scientist – GTM | Oct 2019 – Feb 2023
+
+- Led **product, growth, pricing, and monetization analytics**, supporting Product Managers with funnel, feature-usage, customer-behavior, and experimentation insights.
+- Built customer segmentation, conversion, and monetization frameworks used during the **Zipwhip-to-Twilio transition** and ongoing pricing decisions.
+- Created **governed metrics, customer-facing analytics, and 0-to-1 feature monetization foundations** while improving data quality and reporting reliability.
+
+---
+
+## STARBUCKS
+
+### Senior Systems & Data Analyst – Data Quality & Supply Chain | Feb 2018 – Oct 2019
+
+- Led and built a **transportation analytics solution** using ETL, stochastic optimization, and Tableau/OBIEE reporting for Supply Chain and Finance.
+- Worked in a **technical product-owner capacity** for cloud data-quality and ML enablement.
+- Created reusable **Databricks validation notebooks and edge-case test frameworks** while partnering with SMEs, Data Science, and Engineering.
+
+---
+
+## ANALYTICS & BI LEADERSHIP
+
+### Korn Ferry • Tech Mahindra / Telstra • NBN Co. | Mar 2016 – Sep 2017
+
+- **Korn Ferry:** Built executive recruiting analytics, personalized recruiter pipeline dashboards, and payroll workflow alerts.
+- **Telstra:** Led **Splunk-based ETL monitoring and alerting** to protect time-sensitive financial reporting.
+- **NBN Co.:** Used large-scale data analysis, fuzzy matching, and government reference data to improve **location-data quality and customer onboarding**.
+
+---
+
+## ACCENTURE INDIA & AUSTRALIA
+
+### Business Intelligence & CRM Onsite Lead / Senior BI Consultant | Aug 2009 – Feb 2016
+
+- Progressed from hands-on **BI, ETL, SQL, and data engineering** into client-facing delivery leadership.
+- Led offshore delivery across **Oracle BI, Tableau, CRM, and ODI/ETL**, translating business needs into reliable technical solutions.
+- Partnered with Change Management on **code quality, release readiness, production risk, and knowledge preservation** across enterprise systems.
+
+---
+
+# 🎓 Education & Certifications
+
+- Master of Science, Computer Applications – Banasthali University
+- Bachelor of Science, Computer Applications – TMIMT University
+- Springboard Data Science Career Track
+- HarvardX Advanced Data Science
+- Oracle BI Foundation Suite 11g Certified Implementation Specialist
+- DataCamp – Generative AI for Business
+
+---
+
+## 🔎 Focus Areas
+
+**Data & AI Product Leadership**  
+**Product Analytics & Decision Science**  
+**Growth Analytics & Customer Insights**  
+**Pricing & Monetization**  
+**Generative & Agentic AI**  
+**Data Engineering & Data Quality**
